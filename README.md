@@ -9,7 +9,8 @@ The newset Bios as of writing is mainline: v4.13.0.1
 
 I will try to update the BIOS file to the newest mainline as soon as one comes out.
 
-
+**Use it on your own risk.
+I am not responsible for any damage that may occour during this process.**
 
 
 **How to Flash the BIOS**
