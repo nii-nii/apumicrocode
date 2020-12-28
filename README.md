@@ -30,7 +30,7 @@ Wait till the programe is finished.
 **Step 3**
 Place the APU-Bios into the root directory.
 Boot the USB drive from the APU and do:
-flashrom -w "APU*-BIOS.rom" -p internal 
+>flashrom -w "APU*-BIOS.rom" -p internal 
 
 *APU from 2-5
 
