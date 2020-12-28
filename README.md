@@ -1,4 +1,4 @@
-I integrated the microcode-Patch from PC-Engine to the APU2, APU3, APU4 and APU5 to the bios file.
+I integrated the Microcode-Patch from PC-Engine to the APU2, APU3, APU4 and APU5 to the bios file.
 
 The guide I used can be found here:
 https://github.com/pcengines/apu2-documentation/blob/master/docs/microcode_patching.md
