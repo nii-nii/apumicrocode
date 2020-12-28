@@ -1,4 +1,4 @@
-> **APU with patched Microcode**
+**APU with patched Microcode**
 
 I integrated the Microcode-Patch to the APU2, APU3, APU4 and APU5 to the BIOS.
 
@@ -12,7 +12,7 @@ I will try to update the BIOS file to the newest mainline as soon as one comes o
 
 
 
-> **How to Flash the BIOS**
+**How to Flash the BIOS**
 
 **Step 1**
 Install/Download [TinyCore](https://www.pcengines.ch/tinycore.htm).
