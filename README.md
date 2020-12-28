@@ -1,6 +1,7 @@
 **APU with patched Microcode**
 
-I integrated the Microcode-Patch to the APU2, APU3, APU4 and APU5 to the BIOS.
+I integrated the Microcode-Patch to the BIOS.
+The following APU's are supported APU2, APU3, APU4 and APU5.
 
 The guide I used can be found [here](https://github.com/pcengines/apu2-documentation/blob/master/docs/microcode_patching.md).
 
