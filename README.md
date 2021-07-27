@@ -37,4 +37,4 @@ Boot the USB drive from the APU and do:
 *APU from 2-5
 
 It will flash the BIOS this may take a few minutes.
-When it's finished do a colboot and you're good to go.
+When it's finished do a coldboot and you're good to go.
